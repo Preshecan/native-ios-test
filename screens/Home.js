@@ -7,7 +7,7 @@ import {
 const Home = () => {
     return (
         <View>
-            <Text>Home</Text>        
+            <Text>Homeee</Text>        
         </View>
     )
 }
